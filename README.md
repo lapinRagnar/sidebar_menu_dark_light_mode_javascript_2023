@@ -7,3 +7,9 @@ https://www.youtube.com/watch?v=bFvfqUMjvsA&list=PLImJ3umGjxdCjoBGj1eGQwcopR0P0e
 
 # live - lien du demo
 
+
+# icons
+https://boxicons.com/
+
+# font-family
+https://fonts.google.com/specimen/Poppins?query=popp
